@@ -11,8 +11,6 @@ Redirecionar automaticamente para a URL original
 
 Persistir os dados no banco
 
-(Opcional) Contabilizar número de acessos
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3.x
