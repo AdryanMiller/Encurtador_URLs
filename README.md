@@ -1,5 +1,5 @@
-🔗 Encurtador de Links - Flask + MySQL
-📌 Sobre o Projeto
+# 🔗 Encurtador de Links - Flask + MySQL
+## 📌 Sobre o Projeto
 
 Este projeto é um encurtador de URLs desenvolvido com Python, utilizando o microframework Flask para a API e MySQL como banco de dados relacional.
 
@@ -13,16 +13,12 @@ Persistir os dados no banco
 
 (Opcional) Contabilizar número de acessos
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-Python 3.x
+- Python 3.x
 
-Flask
+- Flask
 
-MySQL
+- MySQL
 
-SQLAlchemy (ORM)
-
-python-dotenv
-
-Gunicorn (para deploy, opcional)
+- python-dotenv
